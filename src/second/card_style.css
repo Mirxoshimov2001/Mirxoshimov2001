@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.second_card_block{
+    width: 374px;
+    height: 392px;
+    text-align: center;
+}
+
+
+.second_card_block img{
+    width: 240px;
+    height: 240px;
+}
+
+.second_card_block h4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 36px;
+    text-align: center;
+    color: #211F54;
+    margin-top: 39px;
+}
+.second_card_block p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 30px;
+    text-align: center;
+    color: #6E7191;
+    margin-top: 16px;
+    
+}

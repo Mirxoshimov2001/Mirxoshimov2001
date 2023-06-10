@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.block_second{
+    width: 100%;
+    height: 100vh;
+
+}
+
+.block_second_title{
+    text-align: center;
+    color: #211F54;
+    margin-top: 200px;
+}
+
+.block_second_title h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    
+}
+.block_second_title p{
+    width: 50%;
+    margin: 19px auto;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 30px;
+}
+
+.second_card_block_outline{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.second_button_block{
+    width: 100%;
+    height: 180px;
+}
+
+.second_button_block button{
+    width: 217px;
+    height: 54px;
+    border-radius: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    outline: none;
+    border: none;
+    margin-top: 87px;
+}
+.second_button_block button:nth-child(1):hover{
+    box-shadow: 0px 0px 1px 2px rgba(0, 117, 255, .7);
+}
+.second_button_block button:nth-child(2):hover{
+    box-shadow: 0px 0px 1px 2px rgba(255, 255, 255, 0.7);
+}
+.second_button_block button:nth-child(1){
+    background: #0075FF;
+    color: #FFFFFF;
+    margin-left: 450px;
+    margin-right: 48px;
+    margin-top: 50px;
+}
+
+.second_button_block button:nth-child(2){
+    background: #FFFFFF;
+    border: 1px solid #EFF0F6;
+    box-shadow: 0px 4px 10px rgba(20, 20, 43, 0.04);
+    border-radius: 14px;
+    color: #211F54;
+}
+.line_one{
+    width: 1220px;
+    height: 1px;
+    background-color: #DCDDEB;
+    margin-top: 240px;
+    margin:240px auto;
+}
+/* .second_card_block:nth-child(1) img{
+    margin-left: 184px;
+}
+.second_card_block:nth-child(3) img{
+    margin-right: 192px;
+}
+.second_card_block:nth-child(1) h4{
+    margin-left: 186px;
+}
+.second_card_block:nth-child(3) h4{
+    margin-right: 134px;
+}
+.second_card_block:nth-child(1) p{
+    margin-left: 98px;
+}
+.second_card_block:nth-child(3) p{
+    margin-right: 116px; */
+/* } */

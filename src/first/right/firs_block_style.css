@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.right_img_block{
+    width: 100%;
+    height: 100vh;
+    background-image:url(../../static/group_bg.svg);
+}
+.right_img{
+    width: 100%;
+    height: 100vh;
+    right: 0px;
+}

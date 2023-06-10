@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.block_all_first{
+    display: flex;
+}
+.block_right{
+    width: 50%;
+    top: 0%;
+    right: -1%;
+    left: 50%;
+    bottom: 0%;
+
+}
+.block_left{
+    width: 50%;
+    height: 100vh;
+
+}

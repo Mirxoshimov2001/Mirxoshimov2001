@@ -1,0 +1,35 @@
+.forth_card_inline{
+    width: 388px;
+    height: 494px;
+    text-align: center;
+    border: 1px solid #EFF0F6;
+    box-shadow: 0px 2px 6px rgba(20, 20, 43, 0.04);
+    border-radius: 16px;
+}
+.forth_card_inline img{
+    width: 220px;
+    height: 190px;
+    margin-top: 83px;
+}
+.forth_card_inline h4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+    color: #211F54;
+    margin-top: 24px;
+}
+.forth_card_inline p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 30px;    
+    text-align: center; 
+    color: #6E7191;
+    margin: 13px 38px 29px 38px;
+
+    
+}
